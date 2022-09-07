@@ -22,6 +22,7 @@ def pregunta_01():
     40
 
     """
+    len(tbl0)
     return
 
 
@@ -33,6 +34,8 @@ def pregunta_02():
     4
 
     """
+    c= tbl0.columns
+    len(c)
     return
 
 
@@ -50,6 +53,7 @@ def pregunta_03():
     Name: _c1, dtype: int64
 
     """
+    
     return
 
 
@@ -65,6 +69,7 @@ def pregunta_04():
     E    4.785714
     Name: _c2, dtype: float64
     """
+ 
     return
 
 
